@@ -1,4 +1,4 @@
-# UlamSpiral
+# CUlamSpiral
 
 This C program generates an Ulam spiral, which is a pattern formed by arranging the positive integers in a grid, starting from the center and moving outwards in a spiral pattern.
 
